@@ -1,0 +1,9 @@
+Flask
+flask-cors
+pandas
+scikit-learn
+joblib
+Werkzeug
+Flask-JWT-Extended 
+Flask-SQLAlchemy
+psycopg2-binary
